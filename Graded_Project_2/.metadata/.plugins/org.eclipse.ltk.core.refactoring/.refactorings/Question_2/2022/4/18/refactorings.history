@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;main.greatlearning.main&apos; to &apos;com.greatlearning.main&apos;&#x0D;&#x0A;- Original project: &apos;Question_2&apos;&#x0D;&#x0A;- Original element: &apos;Question_2/src/main/java/main.greatlearning.main&apos;&#x0D;&#x0A;- Renamed element: &apos;Question_2/src/main/java/com.greatlearning.main&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;main.greatlearning.main&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;main.greatlearning.main" name="com.greatlearning.main" qualified="false" references="true" stamp="1651213911006" textual="false" version="1.0"/>
+</session>
